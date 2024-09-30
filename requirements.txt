@@ -1,0 +1,5 @@
+Flask==2.1.0
+deriv-api==0.5.1
+numpy==1.22.4
+TA-Lib==0.4.0
+asyncio==3.4.3
